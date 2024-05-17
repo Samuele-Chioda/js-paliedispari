@@ -1,3 +1,5 @@
+// palindroma
+
 let userWord = prompt('Type a word').trim().toLowerCase();
 
 while (userWord.length < 1){
